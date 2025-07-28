@@ -21,7 +21,7 @@ class Calculator{
             System.out.println(n1+"-"+n2+"="+result);
             break;
              case'*':
-            result=n1+n2;
+            result=n1*n2;
             System.out.println(n1+"*"+n2+"="+result);
             break;
              case'/':
